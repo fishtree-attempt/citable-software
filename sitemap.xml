@@ -13,6 +13,9 @@
     <loc>https://preview.carpentries.org/citable-software/about.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/citable-software/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/citable-software/discuss.html</loc>
   </url>
   <url>
@@ -20,6 +23,9 @@
   </url>
   <url>
     <loc>https://preview.carpentries.org/citable-software/guide.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/citable-software/images.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/citable-software/index.html</loc>
@@ -37,6 +43,9 @@
     <loc>https://preview.carpentries.org/citable-software/instructor/about.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/citable-software/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/citable-software/instructor/discuss.html</loc>
   </url>
   <url>
@@ -46,7 +55,16 @@
     <loc>https://preview.carpentries.org/citable-software/instructor/guide.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/citable-software/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/citable-software/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/citable-software/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/citable-software/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/citable-software/instructor/lesson_design_notes.html</loc>
@@ -59,6 +77,12 @@
   </url>
   <url>
     <loc>https://preview.carpentries.org/citable-software/instructor/setup.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/citable-software/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/citable-software/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/citable-software/lesson_design_notes.html</loc>
